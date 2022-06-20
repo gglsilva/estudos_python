@@ -1,0 +1,7 @@
+Objetivos da Aula:
+    - conceitos iniciais de classe em python
+    - declaração
+    - atributos e metodos
+    - metodo construtor
+    - atribui valor no momento que a classe é instanciada
+    - chamada de metodos
